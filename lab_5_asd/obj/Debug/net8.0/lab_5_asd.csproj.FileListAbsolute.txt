@@ -1,0 +1,14 @@
+F:\training VS\lab_5_asd\bin\Debug\net8.0\lab_5_asd.exe
+F:\training VS\lab_5_asd\bin\Debug\net8.0\lab_5_asd.deps.json
+F:\training VS\lab_5_asd\bin\Debug\net8.0\lab_5_asd.runtimeconfig.json
+F:\training VS\lab_5_asd\bin\Debug\net8.0\lab_5_asd.dll
+F:\training VS\lab_5_asd\bin\Debug\net8.0\lab_5_asd.pdb
+F:\training VS\lab_5_asd\obj\Debug\net8.0\lab_5_asd.GeneratedMSBuildEditorConfig.editorconfig
+F:\training VS\lab_5_asd\obj\Debug\net8.0\lab_5_asd.AssemblyInfoInputs.cache
+F:\training VS\lab_5_asd\obj\Debug\net8.0\lab_5_asd.AssemblyInfo.cs
+F:\training VS\lab_5_asd\obj\Debug\net8.0\lab_5_asd.csproj.CoreCompileInputs.cache
+F:\training VS\lab_5_asd\obj\Debug\net8.0\lab_5_asd.dll
+F:\training VS\lab_5_asd\obj\Debug\net8.0\refint\lab_5_asd.dll
+F:\training VS\lab_5_asd\obj\Debug\net8.0\lab_5_asd.pdb
+F:\training VS\lab_5_asd\obj\Debug\net8.0\lab_5_asd.genruntimeconfig.cache
+F:\training VS\lab_5_asd\obj\Debug\net8.0\ref\lab_5_asd.dll
